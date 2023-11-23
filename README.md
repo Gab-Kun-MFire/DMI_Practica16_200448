@@ -43,13 +43,9 @@ El desarrollo de esta API comenzó instalando las dependencias esenciales para e
 
 ## Capturas de Pantalla Actividad 1
 <p align="center">
-  <img src="./pruebas/prueba1obtenermensajePrincipal.png" width="400" alt="Get Data">
-  <img src="./pruebas/prueba2obtenerjugadores.png" width="400" alt="Get All Data">
-  <img src="./pruebas/prueba3obtenerjugadorporId.png" width="400" alt="Get One By ID">
-  <img src="./pruebas/prueba4obtenerjugadorporEmail.png" width="400" alt="Get One By Email">
-  <img src="./pruebas/prueba5crearUsuario.png" width="400" alt="Create Player">
-  <img src="./pruebas/prueba6actualizrUsuario.png" width="400" alt="Put Player">
-  <img src="./pruebas/prueba7eliminarUsuario.png" width="400" alt="Delete Player">
+  <img src="./tres.png" width="400" alt="Get Data">
+  <img src="./seis.png" width="400" alt="Get All Data">
+  <img src="./dos.png" width="400" alt="Get One By ID">
 </p>
 
 ### Actividad 2: Integración de la Conexión de Base de Datos y Creación de Ruta para Obtener Todos los Datos de la Tabla
