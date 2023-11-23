@@ -1,15 +1,15 @@
 peticiones.http
-GET http://localhost:20052/player/getAll HTTP/1.1
+GET http://localhost:20044/player/getAll HTTP/1.1
 
 ###
 
-GET http://localhost:20052/player/getOneById/1 HTTP/1.1
+GET http://localhost:20044/player/getOneById/1 HTTP/1.1
 
 ###
-GET http://localhost:20052/player/getOneByEmail/uri.7ma.3co@gmail.com HTTP/1.1
+GET http://localhost:20044/player/getOneByEmail/gabi12345az.az2@gmail.com HTTP/1.1
 
 ###
-POST http://localhost:20052/player/createOnePlayer HTTP/1.1
+POST http://localhost:20044/player/createOnePlayer HTTP/1.1
 # content-type: application/json
 
 # {
@@ -19,7 +19,7 @@ POST http://localhost:20052/player/createOnePlayer HTTP/1.1
 # }
 
 ###
-POST http://localhost:20052/player/updatePlayer/1 HTTP/1.1
+POST http://localhost:20044/player/updatePlayer/1 HTTP/1.1
 # content-type: application/json
 
 # {
@@ -30,4 +30,4 @@ POST http://localhost:20052/player/updatePlayer/1 HTTP/1.1
 # }
 
 ###
-GET http://localhost:20052/player/delPlayer/1 HTTP/1.1
+GET http://localhost:20044/player/delPlayer/1 HTTP/1.1
